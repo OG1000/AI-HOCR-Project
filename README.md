@@ -15,7 +15,7 @@ The following is the Problem Statement Template
 | __An ideal solution__ | __Benefit of solution for them :__ This program or AI model will help the stakeholders. This program will take a image of written text and analyse it to provide the text. It will also give the keywords. It will help the students by helping them to write the correct answers with apt keywords, which is the main cause of marks. It will help teachers to give the keywords for fast checking. | __Why__ |
 
 ## Data Acquisition
-I have used the dataset __[EMNIST](https://www.nist.gov/itl/products-and-services/emnist-dataset)__ for training both the models. 
+I have used the dataset __[EMNIST](https://www.nist.gov/itl/products-and-services/emnist-dataset)__ for training the models. 
 
 
 ## Data Exploration
@@ -43,7 +43,9 @@ __*__ The speed and accuracy rating may be misleading, a model can perform bette
 ## Evaluation
 In the above table, the speed and accuracy ratings are the evaluations. 
 
-In my models, both first and second models are of __90%__ Accuracy but, my second model is trained more (more epochs). Both modela sre trained with __EMNIST__ datasets both with 90% accuracy. 
+In the above table, the speed and accuracy ratings are the evaluations.
+In my model, it is trained till 90% Accuracy (104840/116323 Test Batches), with average loss of 0.26954
+ 
 ## Deployment
 
 ### GUI
