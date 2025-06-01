@@ -4,6 +4,8 @@
 
 This is a Simple Handwriting Recognition Program. This model gives the user 6 options for different Models for OCR. It also preprocesses the images and corrects the text. I have made this program for the __SDG Goal 4 : Quality education__. This program is not fully developed and I have some [Future Goals](#future-goals).
 
+To run, first run the __prerequisite.batch__ file then the __main4copy copy.py__ file.
+
 ## Problem Scoping
 The following is the Problem Statement Template
 
