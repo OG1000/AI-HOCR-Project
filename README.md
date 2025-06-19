@@ -1,3 +1,5 @@
+**Note:** Latest version 2.0.0 is available in the releases section. For the latest version download the code from there.
+
 # AI-HOCR-Project
 
 ## Brief Despcription
